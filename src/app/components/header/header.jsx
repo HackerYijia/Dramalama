@@ -15,7 +15,7 @@ export default async function Header() {
 		<Navbar isBordered>
 			<NavbarBrand>
 				<p className="text-2xl font-bold">
-					<Link href="/">Dramalama</Link>
+					<Link href="/">JN Movies</Link>
 				</p>
 			</NavbarBrand>
 			<NavbarContent className="hidden sm:flex gap-4" justify="center">
@@ -34,7 +34,7 @@ export default async function Header() {
 					<Button
 						as={Link}
 						color="success"
-						href="https://github.com/real-zephex/Dramalama"
+						href="https://github.com/HackerYijia/Dramalama"
 						variant="faded"
 						target="_blank"
 					>
