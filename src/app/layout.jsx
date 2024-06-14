@@ -5,13 +5,13 @@ import { lexend } from "../../config/fonts";
 import { Providers } from "./themeManager";
 
 export const metadata = {
-	title: "Dramalama",
+	title: "JN Movies",
 	description:
 		"Online service to watch kdramas and anime for free. You can also read and download mangas for free.",
 	generator: "Next.js",
 	applicationName: "Dramalama",
-	authors: [{ name: "zephex", url: "https://github.com/real-zephex" }],
-	creator: "Zephex",
+	authors: [{ name: "NotJunar", url: "https://github.com/HackerYijia" }],
+	creator: "NotJunar",
 	keywords: [
 		"Kdrama",
 		"Anime",
@@ -45,7 +45,7 @@ export const metadata = {
 		yandex: "yandex",
 		yahoo: "yahoo",
 		other: {
-			me: ["zephex@duck.com"],
+			me: ["yijiasonqsi@protonmail.com"],
 		},
 	},
 };
